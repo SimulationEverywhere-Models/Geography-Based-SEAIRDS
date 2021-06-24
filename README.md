@@ -2,8 +2,8 @@ Cell-DEVS Geographical SEAIRDS Pandemic Model
 ===
 Overview
 ----
-This model is an extension of a previous SIRDS model found here:
-https://github.com/SimulationEverywhere-Models/Geography-Based-Model
+This model is an extension of a previous SEIRDS model found here:
+https://github.com/SimulationEverywhere-Models/Geography-Based-SEIRDS
 
 The inital model was based on the Zhong model:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088542/pdf/11430_2009_Article_44.pdf
