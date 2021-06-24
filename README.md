@@ -53,7 +53,7 @@ The .sh scripts does:
 
 1. Generates a cell space from geographical data, initializes infection in a single cell.
 2. Runs a simulation with the generated scenario
-3. Generates SEIRD graphs of the simulation (saved in logs folder)
+3. Generates SEAIRD graphs of the simulation (saved in logs folder)
 4. Converts the message log of the simulation into standard web viewer format (messages.log), generates structure.json, and saves the result in the GIS_Viewer folder
 
 Generating a scenario from geographical data
@@ -93,5 +93,3 @@ This project uses several python scripts that are dependent on the libraries: ge
 5.  ```conda create --name geo_env```
 6.  ```conda activate geo_env```
 7.  ```conda install geopandas numpy matplotlib ```
-# Geography-Based-SEAIRDS
-# Geography-Based-SEAIRDS
